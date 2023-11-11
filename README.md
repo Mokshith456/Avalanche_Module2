@@ -46,14 +46,9 @@ An interface for interacting with the deployed {Assessment} smart contract is pr
 
 ## Authors
 
-- Mokshith Putta ([mokshithlucky06@gmail.com](mailto:mokshithlucky06@gmail.com))
+- Mokshith Putta
+- mokshithlucky06@gmail.com
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to OpenAI for providing the GPT-3.5 language model.
-
-Feel free to explore and modify the code as needed. If you encounter any issues or have suggestions, please create an issue in the repository.
+This project is licensed under the MIT License. See the 
