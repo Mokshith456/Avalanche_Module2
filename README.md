@@ -46,9 +46,9 @@ An interface for interacting with the deployed {Assessment} smart contract is pr
 
 ## Authors
 
-- Mokshith Putta
+- Mokshith P
 - mokshithlucky06@gmail.com
 
 ## License
 
-This project is licensed under the MIT License. See the 
+This project is licensed under the MIT License. 
