@@ -1,5 +1,3 @@
-#Solidity Contract
-
 The `Assessment` Solidity smart contract in this repository shows off basic features including error handling. Additionally, we might employ front-end diplaying via MetaMask to communicate with the smart contract through a straightforward React application.
 
 ## Smart Contract
