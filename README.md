@@ -13,7 +13,7 @@ The Array product Function is an arithmatic function that updates the contract's
 
 ### How to use
 
-You may run the Assessment.sol smart contract on gitput which is a online ide for running smart contracts.
+You may run the Assessment.sol smart contract on gitpod which is a online ide for running smart contracts.
 
 ## Application for React
 React.js is used to make a front end for our contract where we can interact with the contract.
