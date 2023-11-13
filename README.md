@@ -15,9 +15,9 @@ The Array product Function is an arithmatic function that updates the contract's
 
 You may run the Assessment.sol smart contract on gitpod which is a online ide for running smart contracts. 
 In the gitpod Terminal you have to paste these three commands to deploy the code and open the front end:
-- npx hardhat node
-- npx hardhat run --network localhost scripts/deploy.js
-- npm run dev
+- '''npx hardhat node'''
+- '''npx hardhat run --network localhost scripts/deploy.js'''
+- '''npm run dev'''
 
 ## Application for React
 React.js is used to make a front end for our contract where we can interact with the contract.
